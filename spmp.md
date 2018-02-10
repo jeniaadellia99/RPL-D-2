@@ -1,9 +1,18 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+kelompok 2
+
+=======
+=======
+>>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
 **kelompok 2**
 -Jenia Adellia
 -Astri Alisah
 -Rizky Alief Satria
 -Tuti Nurafni Amalia
 
+<<<<<<< HEAD
+=======
 1.	Introduction
 Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android adalah aplikasi yang memudahkan penjualan yang lebih jelas.
 
@@ -64,6 +73,35 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 	3					Rizky Alief Satria		Analys
 	4					Tuti Nurafni			Design
 
+3.	Managerial process
+	I.	Management objectives and priorities
+		sistem ini dapat memberikan fasilitas kemudahan bagi sales kartu Telkomsel dalam pengecekan data stok yang tersedia dan pencatatan data transaksi penjualan, meningkatkan kemudahan
+		penyediaan informasi data penjualan, juga memberikan kemudahan untuk manajemen dalam mengelola operasional dan efisien dalam mengelola keuangan.
+
+	II.	Assumptions, dependencies, and constraint
+		Asumsi proyek sebagai berikut: 
+		i.	Terdapat 3 fungsi yaitu Admin, Sales dan user.
+		ii.	Ketersediaannya peralatan dan perangkat lunak.
+		iii. Adanya kerjasama dengan mitra terkait.
+		Substansi proyek adalah sebagai berikut:
+		iv.	Penjualan provider ini melalui sales dan dikirim ke pengguna 
+		Kendala proyek adalah sebagai berikut
+		v.	Waktu
+		vi.	Anggaran
+		vii. Waktu pengerjaan
+		viii. Perangkat lunak yang ada.
+	III.	Risk management
+		i.	Pasar
+		ii.	keuangan
+		iii.Teknologi
+		iv.	proses
+	IV.	Monitoring and controlling mechanisms 
+		i.	Pembagian tugas pengerjaan proyek
+		ii.	Pengerjaan proyek mingguan bersama-sama. 
+		iii. Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
+		iv.	Penentuan mitra.
+
+>>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
 **4.	Technical process**
 	**I.	Methods, tools, and techniques**
 	proyek ini akan diimplementasikan dengan memanfaatkan  metodologi Water fall dan software seperti JSP,QTP dan Loadrunner. Teknis tersebut akan digunakan untuk proyek ini.
@@ -73,3 +111,7 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 
 	**III.	Project support functions** 
 		i.	Pembuatan aplikasi ini akan selesai dalam waktu yang telah disesuaikan.
+<<<<<<< HEAD
+>>>>>>> 9386378f3eb378a43b4d73db773db38dbf31283d
+=======
+>>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
