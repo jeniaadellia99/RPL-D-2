@@ -72,18 +72,6 @@ Week/Deliverable	Team Leader		Deliverable Description
 3					Rizky Alief Satria		Analys
 4					Tuti Nurafni			Design
 
->>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
-**4.	Technical process**
-	**I.	Methods, tools, and techniques**
-	proyek ini akan diimplementasikan dengan memanfaatkan  metodologi Water fall dan software seperti JSP,QTP dan Loadrunner. Teknis tersebut akan digunakan untuk proyek ini.
-
-	**II.	Software documentation**
-		i.	Dokumen seperti kebutuhan bisnis,spesifikasi fungsional, analisis biaya,  spesifikasi teknis, desain, rencana uji, rencana pelaksanaan dan realisasi manfaat.  
-
-	**III.	Project support functions** 
-		i.	Pembuatan aplikasi ini akan selesai dalam waktu yang telah disesuaikan.
-<<<<<<< HEAD
->>>>>>> 9386378f3eb378a43b4d73db773db38dbf31283d
 3.	Managerial process
 	I.	Management objectives and priorities
 		sistem ini dapat memberikan fasilitas kemudahan bagi sales kartu Telkomsel dalam pengecekan data stok yang tersedia dan pencatatan data transaksi penjualan, meningkatkan kemudahan
@@ -111,5 +99,18 @@ Week/Deliverable	Team Leader		Deliverable Description
 		ii.	Pengerjaan proyek mingguan bersama-sama. 
 		iii. Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
 		iv.	Penentuan mitra.
+
+>>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
+**4.	Technical process**
+	**I.	Methods, tools, and techniques**
+	proyek ini akan diimplementasikan dengan memanfaatkan  metodologi Water fall dan software seperti JSP,QTP dan Loadrunner. Teknis tersebut akan digunakan untuk proyek ini.
+
+	**II.	Software documentation**
+		i.	Dokumen seperti kebutuhan bisnis,spesifikasi fungsional, analisis biaya,  spesifikasi teknis, desain, rencana uji, rencana pelaksanaan dan realisasi manfaat.  
+
+	**III.	Project support functions** 
+		i.	Pembuatan aplikasi ini akan selesai dalam waktu yang telah disesuaikan.
+<<<<<<< HEAD
+>>>>>>> 9386378f3eb378a43b4d73db773db38dbf31283d
 =======
 >>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
