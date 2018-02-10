@@ -102,7 +102,7 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		iv.	Penentuan mitra.
 
 >>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
-**4.	Technical process**
+4.	Technical process**
 	**I.	Methods, tools, and techniques**
 	proyek ini akan diimplementasikan dengan memanfaatkan  metodologi Water fall dan software seperti JSP,QTP dan Loadrunner. Teknis tersebut akan digunakan untuk proyek ini.
 
@@ -115,3 +115,10 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 >>>>>>> 9386378f3eb378a43b4d73db773db38dbf31283d
 =======
 >>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
+
+5.	Work elements, schedule, and budge
+	I.	Pada aplikasi ini terdapat 3 fungsi yaitu Admin,sales dan pengguna.
+	II.	Sistem penjualan provider ini dilakukan melalui sales ke pengguna sesuai permintaan.
+	III.	Terdapat menu kritik dan saran pada pengguna untuk memudahkan penyampaian aspirasi kepada sales agar lebih baik lagi.
+
+
