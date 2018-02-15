@@ -9,6 +9,7 @@ Aplikasi E-Commerce Kartu Perdana Telkomsel
 -Tuti Nurafni Amalia
 
 1.	PENDAHULUAN
+
 PT Telkomsel adalah sebuah perusahaan operator telekomunikasi seluler di Indonesia.
 Telkomsel merupakan operator telekomunikasi seluler GSM kedua di Indonesia, dengan layanan paskabayarnya yang diluncurkan pada tanggal 26 Mei 1995. Waktu itu kepemilikan saham Telkomsel adalah PT Telkom (51%) dan PT Indosat (49%). Kemudian pada November 1997 Telkomsel menjadi operator seluler pertama di Asia yang menawarkan layanan prabayar GSM. Telkomsel ini mengklaim sebagai operator telekomunikasi seluler terbesar di Indonesia, dengan 51,3 juta pelanggan dan market share sebesar 51% pada (Maret 2008).
 Telkomsel memiliki tiga produk GSM, yaitu SimPATI (prabayar), KartuAS (prabayar), serta KartuHALO (paskabayar).Saat ini saham Telkomsel dimiliki oleh TELKOM (65%) dan perusahaan telekomunikasi Singapura SingTel (35%). TELKOM merupakan BUMN Indonesia yang mayoritas sahamnya dimiliki oleh Pemerintah Republik Indonesia, sedang SingTel merupakan perusahaan yang mayoritas sahamnya dimiliki oleh Pemerintah Singapura.
@@ -76,12 +77,15 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	3.1	Tujuan dan prioritas manajemen
 		a. Prioritas jadwal
 		   Memudahkan pengguna(konter) dalam pemesanan kartu perdana telkomsel, sehingga menghemat waktu dari sistem yang sebelumnya
+
 		b. Budget
 		   Rincian budget
-		   - Laptop				Rp 14.050.000
-		   - Smartphone				Rp 11.000.000
-		   - survey lokasi dan Atk 		Rp    250.000
-		   - Alokasi dana untuk kebutuhan tim 	Rp 12.000.000
+		   - Laptop Lenovo y50-70-793 i7 @1pcs  		Rp 14.050.000
+		   - Smartphone Xiaomi Mi A1 @3pcs x Rp 3.050.000	Rp  9.150.000
+		   - survey lokasi dan Atk 				Rp    250.000
+		   - Alokasi dana untuk kebutuhan tim 			Rp 16.000.000
+					Total Anggaran			Rp 37.300.000
+
 		c. Kemampuan (kualitas dan reusability)
 		   Aplikasi ini dibuat dengan tampilan yang mudah dipahami masyarakat luas
 
@@ -97,21 +101,24 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 		vi.	Anggaran
 		vii. Waktu pengerjaan
 		viii. Perangkat lunak yang ada.
+
 	3.3	Manajemen resiko
 		i.	Pasar
 		ii.	keuangan
 		iii.	Teknologi
 		iv.	proses
+
 	3.4	Mekanisme monitoring dan kontroling 
 		i.	Pembagian tugas pengerjaan proyek
 		ii.	Pengerjaan proyek mingguan bersama-sama. 
 		iii. 	Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
 		iv.	Penentuan mitra.
+
 	3.5	Perancangan staf
 		Ketua Tim : Jenia Adelia (1603102)
 		Anggota	: Astri Alisah	 (1603091)
-			  Riezky Alief S	 (1603111)
-			  Tuti Nurafni A	 (1603116)
+			  Riezky Alief S (1603111)
+			  Tuti Nurafni A (1603116)
 
 
 4.	Technical process**
