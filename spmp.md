@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 <<<<<<< HEAD
 kelompok 2
 
@@ -73,12 +73,11 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 	3					Rizky Alief Satria		Analys
 	4					Tuti Nurafni			Design
 
-3.	Managerial process
-	I.	Management objectives and priorities
-		sistem ini dapat memberikan fasilitas kemudahan bagi sales kartu Telkomsel dalam pengecekan data stok yang tersedia dan pencatatan data transaksi penjualan, meningkatkan kemudahan
-		penyediaan informasi data penjualan, juga memberikan kemudahan untuk manajemen dalam mengelola operasional dan efisien dalam mengelola keuangan.
+3.	Proses manajerial
+	3.1	Tujuan dan prioritas manajemen
+		-
 
-	II.	Assumptions, dependencies, and constraint
+	3.2	Asumsi keterkaitan dan batasan
 		Asumsi proyek sebagai berikut: 
 		i.	Terdapat 3 fungsi yaitu Admin, Sales dan user.
 		ii.	Ketersediaannya peralatan dan perangkat lunak.
@@ -90,15 +89,15 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		vi.	Anggaran
 		vii. Waktu pengerjaan
 		viii. Perangkat lunak yang ada.
-	III.	Risk management
+	3.3	Manajemen resiko
 		i.	Pasar
 		ii.	keuangan
-		iii.Teknologi
+		iii.	Teknologi
 		iv.	proses
-	IV.	Monitoring and controlling mechanisms 
+	3.4	Mekanisme monitoring dan kontroling 
 		i.	Pembagian tugas pengerjaan proyek
 		ii.	Pengerjaan proyek mingguan bersama-sama. 
-		iii. Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
+		iii. 	Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
 		iv.	Penentuan mitra.
 
 >>>>>>> c478079a31c405d140cd285dc597257b0beb40a5
