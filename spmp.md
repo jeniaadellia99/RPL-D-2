@@ -72,7 +72,7 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		b. Budget
 		   
 		c. Kemampuan (kualitas dan reusability)
-		   
+		   Aplikasi ini dibuat dengan tampilan yang mudah dipahami masyarakat luas
 
 	3.2	Asumsi keterkaitan dan batasan
 		Asumsi proyek sebagai berikut: 
@@ -98,9 +98,9 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		iv.	Penentuan mitra.
 	3.5	Perancangan staf
 		Ketua Tim : Jenia Adelia (1603102)
-		Anggota	:Astri Alisah	 (1603091)
-			 Riezky Alief S	 (1603111)
-			 Tuti Nurafni A	 (1603116)
+		Anggota	: Astri Alisah	 (1603091)
+			  Riezky Alief S	 (1603111)
+			  Tuti Nurafni A	 (1603116)
 
 
 4.	Technical process**
