@@ -39,30 +39,39 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	1.5 Definisi dan Akronim		
 			
 
-2.	Project organization
-	I.	Process model
+2.	Organisasi Proyek
+	2.1	Model proses
 		Proses yang digunakan untuk proyek ini adalah model Waterfall sehingga setiap tahap pengerjaan memungkinkan kita untuk memperbarui rencana proyek dan kiriman lainnya.
 		Kami menggunakan Android dan Web untuk memperkenalkan aplikasi yang kita buat.
 
-	II.	Organizational structure
-	Anggota Kelompok 2: 
-	i.	Jenia Adellia P (1603102)
-	ii.	Astri Alisah  (1603091)
-	iii.Rizky Alief Satria (1603111)
-	iv.	Tuti Nurafni (1603116)
+	2.2	Struktur organisasi
+			Anggota Kelompok 2: 
+		i.	Jenia Adellia P (1603102)
+		ii.	Astri Alisah  (1603091)
+		iii.	Rizky Alief Satria (1603111)
+		iv.	Tuti Nurafni (1603116)
 
-	Week/Deliverable	Team Leader		Deliverable Description
-	1					Jenia Adellia P			Sistem
-	2					Astri Alisah  			Database
-	3					Rizky Alief Satria		Analys
-	4					Tuti Nurafni			Design
+	2.3	Batasan dan antarmuka Organisasi
+		- Aplikasi masih sangat sederhana
+		- Inovasi dari yang sudah ada (sudah ada web sebelumnya, jadi kami hanya menambahkan konten agar memudahkan pengguna)
+
+	2.4	Lingkup dan tanggungjawab
+		Week/Deliverable			Team Leader		Deliverable Description
+			1				Jenia Adellia P			Sistem
+			2				Astri Alisah  			Database
+			3				Rizky Alief Satria		Analys
+			4				Tuti Nurafni			Design
 
 3.	Proses manajerial
 	3.1	Tujuan dan prioritas manajemen
 		a. Prioritas jadwal
 		   Memudahkan pengguna(konter) dalam pemesanan kartu perdana telkomsel, sehingga menghemat waktu dari sistem yang sebelumnya
 		b. Budget
-		   
+		   Rincian budget
+		   - Laptop				Rp 14.050.000
+		   - Smartphone				Rp 11.000.000
+		   - survey lokasi dan Atk 		Rp    250.000
+		   - Alokasi dana untuk kebutuhan tim 	Rp 12.000.000
 		c. Kemampuan (kualitas dan reusability)
 		   Aplikasi ini dibuat dengan tampilan yang mudah dipahami masyarakat luas
 
