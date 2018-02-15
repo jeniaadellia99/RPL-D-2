@@ -49,19 +49,19 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	V.	Definitions, acronyms, and abbreviations
 			i.	PPD – Penjualan Provider Daerah
 
-2.	Project organization
-	I.	Process model
+2.	Organisasi Proyek
+	2.1	Model proses
 		Proses yang digunakan untuk proyek ini adalah model Waterfall sehingga setiap tahap pengerjaan memungkinkan kita untuk memperbarui rencana proyek dan kiriman lainnya.
 		Kami menggunakan Android dan Web untuk memperkenalkan aplikasi yang kita buat.
 
-	II.	Organizational structure
-	Anggota Kelompok 2: 
-	i.	Jenia Adellia P (1603102)
-	ii.	Astri Alisah  (1603091)
-	iii.Rizky Alief Satria (1603111)
-	iv.	Tuti Nurafni (1603116)
+	2.2	Struktur organisasi
+			Anggota Kelompok 2: 
+		i.	Jenia Adellia P (1603102)
+		ii.	Astri Alisah  (1603091)
+		iii.	Rizky Alief Satria (1603111)
+		iv.	Tuti Nurafni (1603116)
 
-	Week/Deliverable	Team Leader		Deliverable Description
+	Week/Deliverable			Team Leader		Deliverable Description
 	1					Jenia Adellia P			Sistem
 	2					Astri Alisah  			Database
 	3					Rizky Alief Satria		Analys
