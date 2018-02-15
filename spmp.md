@@ -1,19 +1,26 @@
-﻿==== KELOMPOK 2 ====
+﻿SOFTWARE PROJECT MANAGEMENT PLAN (SPMP)
 
+Aplikasi E-Commerce Kartu Perdana Telkomsel
+
+**kelompok 2**
 -Jenia Adellia
 -Astri Alisah
 -Rizky Alief Satria
 -Tuti Nurafni Amalia
 
-1.	Introduction
-Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android adalah aplikasi yang memudahkan penjualan yang lebih jelas.
-
-	I.	Project overview
+1.	PENDAHULUAN
+PT Telkomsel adalah sebuah perusahaan operator telekomunikasi seluler di Indonesia.
+Telkomsel merupakan operator telekomunikasi seluler GSM kedua di Indonesia, dengan layanan paskabayarnya yang diluncurkan pada tanggal 26 Mei 1995. Waktu itu kepemilikan saham Telkomsel adalah PT Telkom (51%) dan PT Indosat (49%). Kemudian pada November 1997 Telkomsel menjadi operator seluler pertama di Asia yang menawarkan layanan prabayar GSM. Telkomsel ini mengklaim sebagai operator telekomunikasi seluler terbesar di Indonesia, dengan 51,3 juta pelanggan dan market share sebesar 51% pada (Maret 2008).
+Telkomsel memiliki tiga produk GSM, yaitu SimPATI (prabayar), KartuAS (prabayar), serta KartuHALO (paskabayar).Saat ini saham Telkomsel dimiliki oleh TELKOM (65%) dan perusahaan telekomunikasi Singapura SingTel (35%). TELKOM merupakan BUMN Indonesia yang mayoritas sahamnya dimiliki oleh Pemerintah Republik Indonesia, sedang SingTel merupakan perusahaan yang mayoritas sahamnya dimiliki oleh Pemerintah Singapura.
+Ini semua tak lain karena strategi penjualan simpati Telkomsel yang tak jauh beda seperti pesaingnya. Simpati menggenjot penjualan melalui berbagai cara seperti meningkatkan kwalitas kartu, program yang menguntungkan konsumen dan juga promosi yang dilakukan di berbagai media.
+dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang terpenting dalam melakukan proses penjualan atau pemasaran ke masyarakat. maka dari itu dengan adanya Aplikasi "E-Commerce Kartu Perdana Telkomsel" memudahkan Sales ke Admin untuk proses order stok Barang. 
+	
+	1.1 Gambaran Proyek
 	sistem ini dapat memberikan fasilitas kemudahan bagi sales kartu Telkomsel dalam pengecekan data stok yang tersedia dan pencatatan data transaksi penjualan, meningkatkan kemudahan
-	penyediaan informasi data penjualan, juga memberikan kemudahan untuk
-	manajemen dalam mengelola operasional dan efisien dalam mengelola keuangan
+	penyediaan informasi data penjualan, juga memberikan kemudahan untuk manajemen dalam mengelola operasional dan efisien dalam mengelola pendataan
 
-	II.	Project deliverables
+	1.2	Dokumen dalam Projek
+	
 		1. Preliminary Project Plan						
 		2. Requirements Specification						
 		3. Analysis [Object model, Dynamic model, and User interface]
@@ -23,7 +30,7 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		7. Test Plan 						   
 		8. Final Product w/ Demo
 
-	III.	Evolution of this document
+	1.3	Evolution SPMP
 			i.	Referensi
 				Finaatansyah. 1999. Basis Data. Informatika : Bandung
 			ii.	Definitions, acronyms, and abbreviations - updated as necessary
@@ -33,19 +40,14 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 
 	Revision History
 
-	IV.	References
-			i.	Team Website	www.utdallas.edu/~mas027000
-			ii.	Project Scope 	http://www.utdallas.edu/~chung/CS6354/Project.doc
-			iii.Course Home Page http://www.utdallas.edu/~chung/CS6354/
+	IV.	Referensi
+			1	Website	:
+			2	Ruang Lingkup Proyek: 	http://www.utdallas.edu/~chung/CS6354/Project.doc
+			3	Dashboard:
 			iv.	Case Studies
-			1.	http://www.utdallas.edu/~chung/SE3354Honors/Dalcher--Disaster_in_London.The_LAS_case_study.pdf
-			2.	http://www.utdallas.edu/~chung/SE3354Honors/Finkelstein--A_Comedy_of_Errors--the_London_Ambulance_Service_case_study.pdf
-			3.	http://www.utdallas.edu/~chung/SE3354Honors/Kramer--Succeedings_of_the_8th_International.pdf
-			4.	http://www.utdallas.edu/~chung/SE3354Honors/South_West_Thames--Report_of_the_Inquiry_Into_The_London_Ambulance_Service.pdf
-
+			
 	V.	Definitions, acronyms, and abbreviations
 			i.	PPD – Penjualan Provider Daerah
-  
 
 2.	Project organization
 	I.	Process model
