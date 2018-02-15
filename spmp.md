@@ -111,15 +111,22 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 			  Tuti Nurafni A (1603116)
 
 
-4.	Technical process**
-	**I.	Methods, tools, and techniques**
-	proyek ini akan diimplementasikan dengan memanfaatkan  metodologi Water fall dan software seperti JSP,QTP dan Loadrunner. Teknis tersebut akan digunakan untuk proyek ini.
+**BAB 4**
 
-	**II.	Software documentation**
-		i.	Dokumen seperti kebutuhan bisnis,spesifikasi fungsional, analisis biaya,  spesifikasi teknis, desain, rencana uji, rencana pelaksanaan dan realisasi manfaat.  
+**4. Proses teknis**
 
-	**III.	Project support functions** 
-		i.	Pembuatan aplikasi ini akan selesai dalam waktu yang telah disesuaikan.
+**4.1 Metoda, *tools*, dan teknik**
+		a.) Kami menggunakan metode V-Model untuk mengerjakan Project Aplikasi berbasis Android ini. Dengan harapan agar Aplikasi bisa menghasilkan hasil yang maksimal.
+		b.) Aplikasi ini menggunakan software Java.
+
+
+**4.2 Dokumentasi perangkat lunak**
+
+**4.3 Fungsi-Fungsi pendukung proyek**
+
+  	a.) kami membutuhkan Technical support specialist untuk mendukung pembuatan Aplikasi ini, dan membantu memperbaiki kesalahan yang muncul pada saat pengujian aplikasi.  
+	b.) juga membutuhkan analys untuk menganalisis kebutuhan yang di perlukan Aplikasi ini.
+
 
 5.	Paket pekerjaan, jadwal, dan budget
 	5.1	Pada aplikasi ini terdapat 3 fungsi yaitu Admin,sales dan pengguna.
