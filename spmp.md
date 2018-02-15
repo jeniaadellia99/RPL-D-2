@@ -137,3 +137,53 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	III.	Terdapat menu kritik dan saran pada pengguna untuk memudahkan penyampaian aspirasi kepada sales agar lebih baik lagi.
 
 
+	
+	Time Schedule (Rencana Kerja)
+         Pengendalian waktu atau penjadwalan merupakan pokok yang sangat diperlukan untuk menyelesaikan 
+	suatu proyek. Untuk proyek dengan beberapa kegiatan, tahap pelaksanaan umumnya Schedule perancangan
+	dapat dibayangkan sehingga penjadwalan tidak begitu mutlak dilakukan. Penjadwalan atau Time Schedule 
+	adalah mengatur rencana kerja dari satu bagian atau unit pekerjaan dalam pelaksanaan pekerjaan pembangunan. 
+	Dalam perancangan rencana kerja ini akan dilakukan setelah didapatkan perhitungan keseluruhan dari RAB.
+	
+
+	
+
+
+					Metode			Metode
+					Perkiraan		COCOMO II
+								
+	Waktu			2 bulan `		12 bulan
+	pengerjaan
+	proyek
+
+	Jumlah			4 orang 		4 orang
+	pegawai yang
+	mengerjakan
+	proyek
+
+	Jumlah biaya	8.396.000 		8.396.000
+	dalam satuan
+	bulan
+
+	Biaya total 	16.792.000 		100.752.000
+
+	
+	Budget
+	Rencana Anggaran Biaya
+		Rencana Anggaran Biaya (RAB) merupakan perhitungan banyaknya biaya yang diperlukan untuk bahan dan 
+	upah, serta biaya-biaya lain yang berhubungan dengan pelaksanaan proyek pembangunan. Secara umum perhitungan
+	RAB dapat dirumuskan sebagai berikut:
+
+	Rekapitulasi Rencana Anggaran Biaya
+		Rekapitulasi harga bangnan merupakan bagian dari perhitungan rencana anggaran biaya bangunan yang berfungsi 
+	untuk merekap hasil perhitungan analisa harga satuan sehingga mudah dibaca dan dipahami. Sebelum membuat 
+	rekapitulasi harga bangunan terlebih dahulu dihitung harga tiap-tiap item pekerjaannya. Contoh item dari 
+	rekapitulasi yaitu, pekerjaan persiapan, pekerjaan pondasi, pekerjaan dinding, pekerjaan beton, pekerjaan 
+	atap, pekerjaan plafon, pekerjaan lantai.
+	
+	Perhitungan Prosentase Bobot Pekerjaan
+		Prosentase bobot penjadwalan merupakan besarnya nilai prosentase dari total sub pekerjaan, yang akan 
+	digunakn untuk memperhitungkan lama waktu pekerjaan. Berdasarkan perbandingan antara anggaran biaya 
+	pekerjaan dengan waktu proses pembangunan. Secara skematis dapat digambarkan sebagai berikut:
+	
+	
