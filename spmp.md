@@ -67,7 +67,12 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 
 3.	Proses manajerial
 	3.1	Tujuan dan prioritas manajemen
-		-
+		a. Prioritas jadwal
+		   Memudahkan pengguna(konter) dalam pemesanan kartu perdana telkomsel, sehingga menghemat waktu dari sistem yang sebelumnya
+		b. Budget
+		   
+		c. Kemampuan (kualitas dan reusability)
+		   
 
 	3.2	Asumsi keterkaitan dan batasan
 		Asumsi proyek sebagai berikut: 
@@ -91,6 +96,11 @@ Aplikasi sistem informasi pendataan penjualan kartu telkomsel berbasis android a
 		ii.	Pengerjaan proyek mingguan bersama-sama. 
 		iii. 	Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data.
 		iv.	Penentuan mitra.
+	3.5	Perancangan staf
+		Ketua Tim : Jenia Adelia (1603102)
+		Anggota	:Astri Alisah	 (1603091)
+			 Riezky Alief S	 (1603111)
+			 Tuti Nurafni A	 (1603116)
 
 
 4.	Technical process**
