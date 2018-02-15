@@ -21,33 +21,23 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 
 	1.2	Dokumen dalam Projek
 	
-		1. Preliminary Project Plan						
-		2. Requirements Specification						
-		3. Analysis [Object model, Dynamic model, and User interface]
-		4. Architecture Specification						
-		5. Component/Object Specification					
-		6. Source Code						   
-		7. Test Plan 						   
-		8. Final Product w/ Demo
+		1. Proposal Pengajuan					
+		2. Mou dengan mitra						
+		3. Logbook
+		4. Laporan
 
-	1.3	Evolution SPMP
+	1.3	Evolusi SPMP
 			i.	Referensi
 				Finaatansyah. 1999. Basis Data. Informatika : Bandung
-			ii.	Definitions, acronyms, and abbreviations - updated as necessary
-			iii.Organizational Structure will be updated as the team leaders are 	assigned for each phase.
-			iv.	Technical Process
-			v. Schedule
+				http://ahlimanajemenpemasaran.com/2014/01/strategi-penjualan-simpati-telkomsel-vs-xl/
 
-	Revision History
-
-	IV.	Referensi
+	1.4	Referensi
 			1	Website	:
 			2	Ruang Lingkup Proyek: 	http://www.utdallas.edu/~chung/CS6354/Project.doc
 			3	Dashboard:
-			iv.	Case Studies
 			
-	V.	Definitions, acronyms, and abbreviations
-			i.	PPD – Penjualan Provider Daerah
+	1.5 Definisi dan Akronim		
+			
 
 2.	Project organization
 	I.	Process model
