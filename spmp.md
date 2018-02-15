@@ -49,7 +49,7 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 			Anggota Kelompok 2: 
 		i.	Jenia Adellia P (1603102)
 		ii.	Astri Alisah  (1603091)
-		iii.	Rizky Alief Satria (1603111)
+		iii.Rizky Alief Satria (1603111)
 		iv.	Tuti Nurafni (1603116)
 
 	2.3	Batasan dan antarmuka Organisasi
@@ -57,7 +57,7 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 		- Inovasi dari yang sudah ada (sudah ada web sebelumnya, jadi kami hanya menambahkan konten agar memudahkan pengguna)
 
 	2.4	Lingkup dan tanggungjawab
-		Week/Deliverable			Team Leader		Deliverable Description
+		Week/Deliverable	Team Leader		Deliverable Description
 			1				Jenia Adellia P			Sistem
 			2				Astri Alisah  			Database
 			3				Rizky Alief Satria		Analys
@@ -70,32 +70,32 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 
 		b. Budget
 		   Rincian budget
-		   - Laptop Lenovo y50-70-793 i7 @1pcs  		Rp 14.050.000
-		   - Smartphone Xiaomi Mi A1 @3pcs x Rp 3.050.000	Rp  9.150.000
-		   - survey lokasi dan Atk 				Rp    250.000
-		   - Alokasi dana untuk kebutuhan tim 			Rp 16.000.000
-					Total Anggaran			Rp 37.300.000
+		   - Laptop Lenovo Thinkpad X240 I5 4300U 1.9Ghz 4GB RAM @3pcs   X (Rp5.300.000)				Rp. 15.900.000
+		   - Smartphone Xiaomi Mi A1 @3pcs x (Rp 3.050.000)												Rp.  9.150.000
+		   - survey lokasi dan Atk 																		Rp.    250.000
+		   - Alokasi dana untuk kebutuhan tim/Bulan 4 x (Rp. 4.000.000)									Rp. 16.000.000
+					Total Anggaran																		Rp. 41.300.000
 
 		c. Kemampuan (kualitas dan reusability)
 		   Aplikasi ini dibuat dengan tampilan yang mudah dipahami masyarakat luas
 
 	3.2	Asumsi keterkaitan dan batasan
 		Asumsi proyek sebagai berikut: 
-		i.	Terdapat 3 fungsi yaitu Admin, Sales dan user.
-		ii.	Ketersediaannya peralatan dan perangkat lunak.
-		iii. Adanya kerjasama dengan mitra terkait.
-		Substansi proyek adalah sebagai berikut:
-		iv.	Penjualan provider ini melalui sales dan dikirim ke pengguna 
-		Kendala proyek adalah sebagai berikut
-		v.	Waktu
-		vi.	Anggaran
-		vii. Waktu pengerjaan
-		viii. Perangkat lunak yang ada.
+			1.	Terdapat 3 fungsi yaitu Admin, Sales dan user.
+			2.	Ketersediaannya peralatan dan perangkat lunak.
+			3. Adanya kerjasama dengan mitra terkait.
+			Substansi proyek adalah sebagai berikut:
+			1.	Penjualan provider ini melalui sales dan dikirim ke pengguna 
+			Kendala proyek adalah sebagai berikut
+			1.	Waktu
+			2.	Anggaran
+			3. Waktu pengerjaan
+			4. Perangkat lunak yang ada.
 
 	3.3	Manajemen resiko
 		i.	Pasar
 		ii.	keuangan
-		iii.	Teknologi
+		iii.Teknologi
 		iv.	proses
 
 	3.4	Mekanisme monitoring dan kontroling 
@@ -121,22 +121,29 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	**III.	Project support functions** 
 		i.	Pembuatan aplikasi ini akan selesai dalam waktu yang telah disesuaikan.
 
-5.	Work elements, schedule, and budge
-	I.	Pada aplikasi ini terdapat 3 fungsi yaitu Admin,sales dan pengguna.
-	II.	Sistem penjualan provider ini dilakukan melalui sales ke pengguna sesuai permintaan.
-	III.	Terdapat menu kritik dan saran pada pengguna untuk memudahkan penyampaian aspirasi kepada sales agar lebih baik lagi.
-
-
-	
-	Time Schedule (Rencana Kerja)
-         Pengendalian waktu atau penjadwalan merupakan pokok yang sangat diperlukan untuk menyelesaikan 
-	suatu proyek. Untuk proyek dengan beberapa kegiatan, tahap pelaksanaan umumnya Schedule perancangan
-	dapat dibayangkan sehingga penjadwalan tidak begitu mutlak dilakukan. Penjadwalan atau Time Schedule 
-	adalah mengatur rencana kerja dari satu bagian atau unit pekerjaan dalam pelaksanaan pekerjaan pembangunan. 
-	Dalam perancangan rencana kerja ini akan dilakukan setelah didapatkan perhitungan keseluruhan dari RAB.
-	
+5.	Paket pekerjaan, jadwal, dan budget
+	5.1	Pada aplikasi ini terdapat 3 fungsi yaitu Admin,sales dan pengguna.
+	5.2	Sistem penjualan provider ini dilakukan melalui sales ke pengguna sesuai permintaan.
+	5.3 Terdapat menu kritik dan saran pada pengguna untuk memudahkan penyampaian aspirasi kepada sales agar lebih baik lagi.
 
 	
+	5.4 Alokasi Budget dan sumber daya
+	Rencana Anggaran Biaya
+		Rencana Anggaran Biaya (RAB) merupakan perhitungan banyaknya biaya yang diperlukan untuk bahan dan 
+	upah, serta biaya-biaya lain yang berhubungan dengan pelaksanaan proyek pembangunan. Secara umum perhitungan
+	RAB dapat dirumuskan sebagai berikut:
+
+	Rekapitulasi Rencana Anggaran Biaya
+		Rekapitulasi harga bangnan merupakan bagian dari perhitungan rencana anggaran biaya bangunan yang berfungsi 
+	untuk merekap hasil perhitungan analisa harga satuan sehingga mudah dibaca dan dipahami. Sebelum membuat 
+	rekapitulasi harga bangunan terlebih dahulu dihitung harga tiap-tiap item pekerjaannya. Contoh item dari 
+	rekapitulasi yaitu, pekerjaan persiapan, pekerjaan pondasi, pekerjaan dinding, pekerjaan beton, pekerjaan 
+	atap, pekerjaan plafon, pekerjaan lantai.
+	
+	Perhitungan Prosentase Bobot Pekerjaan
+		Prosentase bobot penjadwalan merupakan besarnya nilai prosentase dari total sub pekerjaan, yang akan 
+	digunakn untuk memperhitungkan lama waktu pekerjaan. Berdasarkan perbandingan antara anggaran biaya 
+	pekerjaan dengan waktu proses pembangunan. Secara skematis dapat digambarkan sebagai berikut:
 
 
 					Metode			Metode
@@ -156,24 +163,14 @@ dalam sistem penjualan kartu sekarang, Sales dan Marketing adalah satu hal yang 
 	bulan
 
 	Biaya total 	16.792.000 		100.752.000
-
 	
-	Budget
-	Rencana Anggaran Biaya
-		Rencana Anggaran Biaya (RAB) merupakan perhitungan banyaknya biaya yang diperlukan untuk bahan dan 
-	upah, serta biaya-biaya lain yang berhubungan dengan pelaksanaan proyek pembangunan. Secara umum perhitungan
-	RAB dapat dirumuskan sebagai berikut:
+	5.5 Jadwal
+			Time Schedule (Rencana Kerja)
+         Pengendalian waktu atau penjadwalan merupakan pokok yang sangat diperlukan untuk menyelesaikan 
+	suatu proyek. Untuk proyek dengan beberapa kegiatan, tahap pelaksanaan umumnya Schedule perancangan
+	dapat dibayangkan sehingga penjadwalan tidak begitu mutlak dilakukan. Penjadwalan atau Time Schedule 
+	adalah mengatur rencana kerja dari satu bagian atau unit pekerjaan dalam pelaksanaan pekerjaan pembangunan. 
+	Dalam perancangan rencana kerja ini akan dilakukan setelah didapatkan perhitungan keseluruhan dari RAB.
 
-	Rekapitulasi Rencana Anggaran Biaya
-		Rekapitulasi harga bangnan merupakan bagian dari perhitungan rencana anggaran biaya bangunan yang berfungsi 
-	untuk merekap hasil perhitungan analisa harga satuan sehingga mudah dibaca dan dipahami. Sebelum membuat 
-	rekapitulasi harga bangunan terlebih dahulu dihitung harga tiap-tiap item pekerjaannya. Contoh item dari 
-	rekapitulasi yaitu, pekerjaan persiapan, pekerjaan pondasi, pekerjaan dinding, pekerjaan beton, pekerjaan 
-	atap, pekerjaan plafon, pekerjaan lantai.
-	
-	Perhitungan Prosentase Bobot Pekerjaan
-		Prosentase bobot penjadwalan merupakan besarnya nilai prosentase dari total sub pekerjaan, yang akan 
-	digunakn untuk memperhitungkan lama waktu pekerjaan. Berdasarkan perbandingan antara anggaran biaya 
-	pekerjaan dengan waktu proses pembangunan. Secara skematis dapat digambarkan sebagai berikut:
 	
 	
