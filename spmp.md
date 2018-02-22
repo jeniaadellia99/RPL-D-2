@@ -1,6 +1,6 @@
 ﻿SOFTWARE PROJECT MANAGEMENT PLAN (SPMP)
 
-Aplikasi E-Commerce Kartu Perdana Telkomsel
+Aplikasi E-Commerce Kartu Perdana Telkomse
 
 **kelompok 2**
 -Jenia Adellia
