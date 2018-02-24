@@ -37,7 +37,7 @@ pada proyek ini ditunjuk masing-masing bertanggung jawab pada dokumen projek yan
 2.Finaatansyah. 1999. Basis Data. Informatika : Bandung
 3.http://ahlimanajemenpemasaran.com/2014/01/strategi-penjualan-simpati-telkomsel-vs-xl/
 
-#BAB II ORGANISASI PROYEK
+# BAB II ORGANISASI PROYEK
 					
 2.	Organisasi Proyek
 
@@ -61,7 +61,7 @@ Semua Developer berperan penting Pembuatan Aplikasi ini.berikut tugas Developer 
 5.Desain:tampilan interface
 6.Analisment:menganalisis terealisasi Program
 
-#BAB III PROSES MANAGERIAL
+# BAB III PROSES MANAGERIAL
 
 3.1	Tujuan dan prioritas manajemen
 
@@ -118,17 +118,15 @@ Anggota	: 	Astri Alisah		(1603091)
 Riezky Alief Satria (1603111)
 Tuti Nurafni Amalia (1603116)
 
-BAB 4
+# BAB IV PROSES TEKNIS
 
-*4. Proses teknis*
-	Teknologi yang digunakan adalah
 4.1 Metoda, *tools*, dan teknik**
 	
 
-**4.2 Dokumentasi perangkat lunak**
-		Bekerjasama dengan Mitra Telkomsel
+4.2 Dokumentasi perangkat lunak
+Bekerjasama dengan Mitra Telkomsel
 
-**4.3 Fungsi-Fungsi pendukung proyek**
+4.3 Fungsi-Fungsi pendukung proyek
 
 a. kami membutuhkan Technical support specialist untuk mendukung pembuatan Aplikasi ini, agar dapat membantu memperbaiki kesalahan yang muncul pada saat pengujian aplikasi.  
 b.) juga membutuhkan analys lebih dari satu untuk menganalisis kebutuhan yang di perlukan Aplikasi ini.
