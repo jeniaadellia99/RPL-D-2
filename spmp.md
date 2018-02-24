@@ -55,12 +55,14 @@ Model pengembangan Perangkat Lunak yang akan di buat yaitu menggunakan V-Model A
 2.3	Lingkup dan Tanggungjawab--
 Semua Developer berperan penting Pembuatan Aplikasi ini.berikut tugas Developer dibawah ini:
 
-1.Project Plan: Mengatur Perancangan Sistem (Alur Mockup,Flowchart, dan DFD)
-2.Android Development: Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java
-3.Web Development: Penerapan Mockup Ke halaman Interface dan proses fungsi lain di PHP, HTML, CSS
-4.Database Administrator: pengguna yang memiliki kewenangan sebagai pusat pengendali seluruh sistem baik basis data maupun program-program yang mengaksesnya, menentukan pola struktur basis data, memodifikasi, membagi tugas pengolahan dan memberikan orientasi tertentu, dan sebagainya.
-5.Desain:tampilan interface
-6.Analisment:menganalisis terealisasi Program
+|No.|Tugas|Penjelasan|
+|--|--|--|
+|1.|Project Plan|Mengatur Perancangan Sistem (Alur Mockup,Flowchart, dan DFD)|
+|2.|Android Development|Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java|
+|3.|Web Development|Penerapan Mockup Ke halaman Interface dan proses fungsi lain di PHP, HTML, CSS|
+|4.|Database Administrator|Pengguna yang memiliki kewenangan sebagai pusat pengendali seluruh sistem baik basis data maupun program-program yang mengaksesnya, menentukan pola struktur basis data, memodifikasi, membagi tugas pengolahan dan memberikan orientasi tertentu, dan sebagainya|
+|5.|Desain|tampilan interface|
+|6.|Analisment|menganalisis terealisasi Program|
 
 # BAB III PROSES MANAGERIAL
 
