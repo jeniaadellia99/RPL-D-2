@@ -8,7 +8,7 @@ Aplikasi Distribusi Pemesanan Kartu Telkomsel wilayah Indramayu Berbasis Web dan
 -Rizky Alief Satria
 -Tuti Nurafni Amalia
 
-1.	PENDAHULUAN
+# BAB 1 PENDAHULUAN
 
 PT Telkomsel adalah sebuah perusahaan Operator telekomunikasi seluler di Indonesia.
 Telkomsel merupakan operator telekomunikasi seluler GSM kedua di Indonesia,Ini semua tak lain karena strategi penjualan simpati Telkomsel yang tak jauh beda seperti pesaingnya. Walaupun begitu Telkomsel menggenjot penjualan melalui berbagai cara seperti meningkatkan kualitas kartu, program yang menguntungkan konsumen dan juga promosi yang dilakukan di berbagai media.
@@ -36,6 +36,8 @@ pada proyek ini ditunjuk masing-masing bertanggung jawab pada dokumen projek yan
 1.http://www.utdallas.edu/~chung/CS6354/Project.doc
 2.Finaatansyah. 1999. Basis Data. Informatika : Bandung
 3.http://ahlimanajemenpemasaran.com/2014/01/strategi-penjualan-simpati-telkomsel-vs-xl/
+
+#BAB II ORGANISASI PROYEK
 					
 2.	Organisasi Proyek
 
@@ -59,7 +61,7 @@ Semua Developer berperan penting Pembuatan Aplikasi ini.berikut tugas Developer 
 5.Desain:tampilan interface
 6.Analisment:menganalisis terealisasi Program
 
-3.	Proses manajerial
+#BAB III PROSES MANAGERIAL
 
 3.1	Tujuan dan prioritas manajemen
 
