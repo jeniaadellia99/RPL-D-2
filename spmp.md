@@ -16,7 +16,7 @@ Telkomsel merupakan operator telekomunikasi seluler GSM kedua di Indonesia,Ini s
 Dalam sistem penjualan kartu sekarang, Konter dan Sales merupakan satu hal yang terpenting dalam melakukan proses penjualan atau pemasaran ke masyarakat. maka dari itu dengan adanya Aplikasi "Aplikasi Distribusi Pemesanan Kartu Telkomsel wilayah Indramayu Berbasis Web dan Android (DISPENKARTEL)" memudahkan Konter dalam Pemesanan jumlah banyak(borongan) untuk proses Cek barang(kartu) dan memudahkan sales tanpa harus Membuat strategi penjualan dengan publikasi lisan. 
 	
 	1.1 Gambaran Proyek
-	sistem ini dapat memberikan fasilitas kemudahan bagi konter dalam pengecekan data stok yang tersedia dan pencatatan data transaksi penjualan, meningkatkan kemudahan penyediaan informasi pemesanan, juga memberikan kemudahan untuk manajemen dalam mengelola operasional dan efisien dalam mengelola pendataan.
+	sistem ini dapat memberikan fasilitas kemudahan bagi konter dalam pengecekan data stok yang tersedia, meningkatkan kemudahan penyediaan informasi pemesanan, sedangkan admin memberikan data laporan penjualan kemudahan untuk manajemen dalam mengelola operasional dan efisien dalam mengelola pendataan barang.
 
 	1.2	Dokumen dalam Projek
 	
