@@ -38,18 +38,17 @@ pada proyek ini ditunjuk masing-masing bertanggung jawab pada dokumen projek yan
 3.http://ahlimanajemenpemasaran.com/2014/01/strategi-penjualan-simpati-telkomsel-vs-xl/
 
 # BAB II ORGANISASI PROYEK
-					
-2.	Organisasi Proyek
 
 2.1	Model proses--
 Model pengembangan Perangkat Lunak yang akan di buat yaitu menggunakan V-Model Alasannya karena metode V-model bisa dikerjakan sebagai Multitask Developer, Dimana bisa mengerjakan tahap selanjut nya apabila tahap awal masih proses. Kami menggunakan Android Studio untuk menunjang requirement perangkat lunak.
 
 2.2	Struktur organisasi
 
-i.	Jenia Adellia Puspita Project Plan
-ii.	Astri Alisah  (1603091) Database
-iii.Rizky Alief Satria (1603111) Mockup, FLowchart, DFD
-iv.	Tuti Nurafni (1603116) Design Interface, Analyst
+|Jenia Adellia Puspita||Project Plan/Manager Project|
+| Astri Alisah || Database |
+| Rizky Alief Satria || Mockup, FLowchart, DFD  |
+| Tuti Nurafni Amalia || Design Interface, Analyst |
+
 
 2.3	Lingkup dan Tanggungjawab--
 Semua Developer berperan penting Pembuatan Aplikasi ini.berikut tugas Developer dibawah ini:
