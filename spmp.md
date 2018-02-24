@@ -44,10 +44,10 @@ Model pengembangan Perangkat Lunak yang akan di buat yaitu menggunakan V-Model A
 
 2.2	Struktur organisasi
 
-|Jenia Adellia Puspita||Project Plan/Manager Project|
-| Astri Alisah || Database |
-| Rizky Alief Satria || Mockup, FLowchart, DFD  |
-| Tuti Nurafni Amalia || Design Interface, Analyst |
+|Jenia Adellia Puspita|Project Plan, Manager Project|
+| Astri Alisah|Database |
+| Rizky Alief Satria|Mockup, FLowchart, DFD  |
+| Tuti Nurafni Amalia|Design Interface, Analyst |
 
 
 2.3	Lingkup dan Tanggungjawab--
