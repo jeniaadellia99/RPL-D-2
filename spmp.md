@@ -3,10 +3,11 @@ SOFTWARE PROJECT MANAGEMENT PLAN (SPMP)
 Aplikasi Distribusi Pemesanan Kartu Telkomsel wilayah Indramayu Berbasis Web dan Android (DISPENKARTEL)
 
 **kelompok 2**
--Jenia Adellia
--Astri Alisah
--Rizky Alief Satria
--Tuti Nurafni Amalia
+
+- Jenia Adellia Puspita
+- Astri Alisah
+- Rizky Alief Satria
+- Tuti Nurafni Amalia
 
 # BAB 1 PENDAHULUAN
 
@@ -108,18 +109,22 @@ iii.Teknologi
 iv.	proses
 
 3.4	Mekanisme monitoring dan kontroling 
-1.Penentuan Mitra
-2.Perancangan Sistem
-3.Pembagian tugas pengerjaan proyek
-4.Pengerjaan proyek mingguan bersama-sama (Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data).
-5.Implementasi
-6.Evaluasi
+
+1. Penentuan Mitra
+2. Perancangan Sistem
+3. Pembagian tugas pengerjaan proyek
+4. Pengerjaan proyek mingguan bersama-sama (Penyimpanan data proyek terpusat agar tidak tercecer, tetapi masing-masing anggota mempunyai sebagian data).
+5. Implementasi
+6. Evaluasi
 		
 3.5	Staf Perancang
-Ketua Tim : Jenia Adellia P (1603102)
-Anggota	: 	Astri Alisah (1603091)
-Riezky Alief Satria (1603111)
-Tuti Nurafni Amalia (1603116)
+
+|Nama|Nim|Jobdesk|
+|--|--|--|
+|Jenia Adellia Puspita|1603102|Ketua Tim|
+|Astri Alisah|1603091|Anggota|
+|Riezky Alief Satria|1603111|Anggota|
+|Tuti Nurafni Amalia|1603116|Anggota|
 
 # BAB IV PROSES TEKNIS
 
@@ -138,23 +143,23 @@ b.) juga membutuhkan analys lebih dari satu untuk menganalisis kebutuhan yang di
 
 # BAB V PAKET PEKERJAAN, JADWAL,DAN ANGGARAN
 
-5.1 Paket Pekerjaan
-	1.Minggu ke-1 s/d 2:Penentuan Ide dan rumusan masalah
-	2.Minggu ke-3 s/d 4:Pembuatan rancangan sistem
-	3.Minggu ke-5 s/d 10:Pembuatan sistem aplikasi
-	4.Minggu ke-11 s/d 12:Implementasi dan Laporan
+5.1 Paket paket pekerjaan:
+ 1. Minggu ke-1 s/d 2:Penentuan Ide dan rumusan masalah
+ 2. Minggu ke-3 s/d 4:Pembuatan rancangan sistem
+ 3. Minggu ke-5 s/d 10:Pembuatan sistem aplikasi
+ 4. Minggu ke-11 s/d 12:Implementasi dan Laporan
 	
 5.2 Ketergantungan dan ketertarikan
 
 kebutuhan ketertarikan:
 
-1.Penentuan Ide dan rumusan masalah
-2.Pembuatan rancangan sistem
-3.Pembuatan sistem aplikasi Website
-4.Pembuatan sistem aplikasi Android
-5.Implementasi
-6.Perbaikan
-7.Laporan
+1. Penentuan Ide dan rumusan masalah
+2. Pembuatan rancangan sistem
+3. Pembuatan sistem aplikasi Website
+4. Pembuatan sistem aplikasi Android
+5. Implementasi
+6. Perbaikan
+7. Laporan
 	
 5.3 Budget
 
