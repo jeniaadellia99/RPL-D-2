@@ -1,4 +1,4 @@
-﻿SOFTWARE PROJECT MANAGEMENT PLAN (SPMP)
+SOFTWARE PROJECT MANAGEMENT PLAN (SPMP)
 
 Aplikasi Distribusi Pemesanan Kartu Telkomsel wilayah Indramayu Berbasis Web dan Android (DISPENKARTEL)
 
@@ -39,7 +39,7 @@ pada proyek ini ditunjuk masing-masing bertanggung jawab pada dokumen projek yan
 
 # BAB II ORGANISASI PROYEK
 
-2.1	Model proses--
+2.1	Model proses
 Model pengembangan Perangkat Lunak yang akan di buat yaitu menggunakan V-Model Alasannya karena metode V-model bisa dikerjakan sebagai Multitask Developer, Dimana bisa mengerjakan tahap selanjut nya apabila tahap awal masih proses. Kami menggunakan Android Studio untuk menunjang requirement perangkat lunak.
 
 2.2	Struktur organisasi
@@ -51,9 +51,9 @@ Model pengembangan Perangkat Lunak yang akan di buat yaitu menggunakan V-Model A
 | Rizky Alief Satria|Mockup, FLowchart, DFD  |
 | Tuti Nurafni Amalia|Design Interface, Analyst |
 
+2.3	Lingkup dan Tanggungjawab
 
-2.3	Lingkup dan Tanggungjawab--
-Semua Developer berperan penting Pembuatan Aplikasi ini.berikut tugas Developer dibawah ini:
+Semua Developer berperan penting dalam Pembuatan Aplikasi ini.berikut detailnya:
 
 |No.|Tugas|Penjelasan|
 |--|--|--|
@@ -74,18 +74,18 @@ a. Prioritas tujuan
 2.melihat stok barang yg aktif
 3.memudahkan sales dalam memasarkan produk agar merubah metode menjadi praktis dan efisien
 
-b. Budget--
+b. Budget
 Rincian budget
-- Laptop Lenovo Thinkpad X240 I5 4300U 1.9Ghz 4GB RAM @3pcs   X (Rp5.300.000)					Rp. 15.900.000
-- Smartphone Xiaomi Mi A1 @3pcs x (Rp 3.050.000)												Rp.  9.150.000
+- Laptop Lenovo Thinkpad X240 I5 4300U 1.9Ghz 4GB RAM @4pcs   X (Rp5.300.000)					Rp. 21.900.000
+- Smartphone Xiaomi Mi A1 @4pcs x (Rp 3.050.000)												Rp. 12.200.000
 - survey lokasi dan Atk 																		Rp.    250.000
 - Alokasi dana untuk kebutuhan tim/Bulan 4 x (Rp. 4.000.000)									Rp. 16.000.000
-					Total Anggaran																Rp. 41.300.000
+					Total Anggaran																Rp. 93.900.000
 
 c. Kemampuan (kualitas dan reusability)
 Aplikasi ini dibuat dengan tampilan yang mudah dan sederhana agar bisa dipahami oleh pengguna.
 
-3.2	Asumsi keterkaitan dan batasan--
+3.2	Asumsi keterkaitan dan batasan
 Asumsi proyek sebagai berikut: 
 
 1.	Terdapat 3 fungsi yaitu Admin, Agen(Konter), Sales.
@@ -101,7 +101,7 @@ Kendala proyek adalah sebagai berikut:
 3. Waktu pengerjaan
 4. Perangkat lunak yang ada.
 
-3.3	Manajemen resiko--
+3.3	Manajemen resiko
 i.	Pasar
 ii.	keuangan
 iii.Teknologi
@@ -116,15 +116,16 @@ iv.	proses
 6.Evaluasi
 		
 3.5	Staf Perancang
-Ketua Tim : Jenia Adellia P 	(1603102)
-Anggota	: 	Astri Alisah		(1603091)
+Ketua Tim : Jenia Adellia P (1603102)
+Anggota	: 	Astri Alisah (1603091)
 Riezky Alief Satria (1603111)
 Tuti Nurafni Amalia (1603116)
 
 # BAB IV PROSES TEKNIS
 
-4.1 Metoda, *tools*, dan teknik**
-	
+4.1 Metode
+
+![Gambar](/img/vmodel.png)
 
 4.2 Dokumentasi perangkat lunak
 Bekerjasama dengan Mitra Telkomsel
@@ -135,16 +136,38 @@ a. kami membutuhkan Technical support specialist untuk mendukung pembuatan Aplik
 b.) juga membutuhkan analys lebih dari satu untuk menganalisis kebutuhan yang di perlukan Aplikasi ini.
 
 
-5.	Paket pekerjaan, jadwal, dan budget
+# BAB V PAKET PEKERJAAN, JADWAL,DAN ANGGARAN
 
 5.1 Paket Pekerjaan
-pembagian Tugas secara detail dibawah ini:
+	1.Minggu ke-1 s/d 2:Penentuan Ide dan rumusan masalah
+	2.Minggu ke-3 s/d 4:Pembuatan rancangan sistem
+	3.Minggu ke-5 s/d 10:Pembuatan sistem aplikasi
+	4.Minggu ke-11 s/d 12:Implementasi dan Laporan
 	
-5.2 Jadwal
-	
+5.2 Ketergantungan dan ketertarikan
 
-5.3 Budget
+kebutuhan ketertarikan:
+
+1.Penentuan Ide dan rumusan masalah
+2.Pembuatan rancangan sistem
+3.Pembuatan sistem aplikasi Website
+4.Pembuatan sistem aplikasi Android
+5.Implementasi
+6.Perbaikan
+7.Laporan
 	
+5.3 Budget
+
+biaya yang dibutuhkan dalam penunjang pembuatan aplikasi ini adalah sebagai berikut:
+	
+|No.|Kebutuhan|banyak|biaya|
+|--|--|--|--|
+|1.|Laptop|4 x Rp.5.000.000|20.000.000|
+|2.|Handphone|4 x Rp.3.000.000|12.000.000|
+|3.|Internet|1|Rp.500.000|
+|4.|Mouse|4 x Rp.80.000|Rp.160.000|
+|--|--|Total|Rp.32.660.000|
+
 
 
 
