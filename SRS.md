@@ -52,11 +52,14 @@ Aplikasi DISPENKARTEL adalah aplikasi berbasis Web dan Android. dimana Admin bis
 2.1 Perspektif Produk
 Pada Produk lain, yaitu aplikasi pendataan barang, tidak di sertai dengan pemesanan produk.
 dengan adanya Aplikasi ini mudah dipakai untuk pemesanan barang dalam jumlah yang banyak/restok barang ke agen konter yang cepat dan efisien.
+
 2.1.1 Antarmuka sistem
 ![Gambar](/img/DFD.jpg)
 
 2.1.2 Antarmuka Pengguna
+
 1. Rancangan Mockup Admin
+
 ![Gambar](/img/login Admin.jpg)
 ![Gambar](/img/HalamanUtamaAdmin.jpg)  		
 ![Gambar](/img/Stok.jpg)
@@ -72,8 +75,8 @@ Aplikasi ini hanya bisa di gunakan pada hadphone yang memiliki OS Android.
 2.1.5 Operasi-operasi 
 |Peran|Penjelasan Operasi|
 |--|--|
-|Admin| menampilkan pilihan menu berupa Login, CRUD jumlah stock kartu perdana, dan melihat pesanan customer|
-|Sales| Register untuk membuat acount, Login, Melihat stock kartu perdana dan juga pemesan 
+|Admin|menampilkan pilihan menu berupa Login, CRUD jumlah stock kartu perdana, dan melihat pesanan customer|
+|Sales|Register untuk membuat acount, Login, Melihat stock kartu perdana dan juga pemesan|
 |Customer/User|Register, Login, dan juga melihat Grafik penjualan, juga memesan kartu perdana|
 
 2.1.7 Kebutuhan-kebutuhan dalam tahapan adaptasi 
