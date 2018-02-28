@@ -29,13 +29,20 @@ Pemesanan Kartu dalam jumlah yang banyak oleh Agen konter melalui sales tidak se
 - Memudahkan konter dalam pemesanan jumlah banyak, untuk proses cek barang dan memudahkan sales tanpa harus membuat strategi penjualan dengan publikasi lisan.
 - Merencanakan pembuatan aplikasi Distribusi pemesanan kartu telkomsel sesuai dengan kebutuhan pihak Telkomsel Suryalaya Indramayu.
 1.2 Lingkup
-- Data Stock Barang
+- Data Stok Barang
 - Pemesanan Kartu
 - Laporan Penjualan
 
+1.3 Akronim
+|Nama|Penjelasan|
+|--|--|
+|Stok|persediaan barang keperluan untuk perbekalan|
+|Kartu|Kartu perdana telepon yang bisa proses menelpon, SMS, dan Internet|
+
 1.4 Referensi
 - https://www.telkomsel.com/paket-simpati
-- 
+- http://hanungnp.staff.telkomuniversity.ac.id/files/2015/04/contoh-SKPL-Sistem-informasi-tugas-akhir-SISTA.pdf
+
 
 1.5 Overview
 -
@@ -44,32 +51,50 @@ Aplikasi DISPENKARTEL adalah aplikasi berbasis Web dan Android. dimana Admin bis
 		
 2.1 Perspektif Produk
 Pada Produk lain, yaitu aplikasi pendataan barang, tidak di sertai dengan pemesanan produk.
-dengan adanya aplikasi ini, kami membuat inovasi berupa pemesanan produk yang juga bisa dilakukan di aplikasi yang kita buat ini.
+dengan adanya Aplikasi ini mudah dipakai untuk pemesanan barang dalam jumlah yang banyak/restok barang ke agen konter yang cepat dan efisien.
 2.1.1 Antarmuka sistem
+![Gambar](/img/DFD.jpg)
 
 2.1.2 Antarmuka Pengguna
-		  		
-		  		
+1. Rancangan Mockup Admin
+![Gambar](/img/login Admin.jpg)
+![Gambar](/img/HalamanUtamaAdmin.jpg)  		
+![Gambar](/img/Stok.jpg)
+![Gambar](/img/input barang.jpg)
+![Gambar](/img/Status Pemesanan.jpg)
+	*Belom*	  		
 2.1.3 Antarmuka Perangkat keras
-- Handphone
-- Laptop
-2.1.4 Antarmuka perangkat lunak 
-2.1.5 Antarmuka Komunikasi 
-2.1.6 Batasan-batasan memori 
-2.1.7 Operasi-operasi 
-2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi 
-2.2 Fungsi-fungsi Produk 
-		 
-2.3 Karakteristik Pengguna
+![Gambar](/img/Antar Muka Hardware.jpg)	
 
+2.1.4 Antarmuka perangkat lunak
+Aplikasi ini hanya bisa di gunakan pada hadphone yang memiliki OS Android.
+
+2.1.5 Operasi-operasi 
+|Peran|Penjelasan Operasi|
+|--|--|
+|Admin| menampilkan pilihan menu berupa Login, CRUD jumlah stock kartu perdana, dan melihat pesanan customer|
+|Sales| Register untuk membuat acount, Login, Melihat stock kartu perdana dan juga pemesan 
+|Customer/User|Register, Login, dan juga melihat Grafik penjualan, juga memesan kartu perdana|
+
+2.1.7 Kebutuhan-kebutuhan dalam tahapan adaptasi 
+
+2.2 Fungsi-fungsi Produk 
+- Flowchart Admin
+![Gambar](/img/Flowcart Admin.jpg)
+- Flowchart Agen Konter
+![Gambar](/img/Flowcart Konter.jpg)
+- Flowchart Sales
+![Gambar](/img/Flowcart Sales.jpg)
+
+2.3 Karakteristik Pengguna
+pengguna bisa melakukan pemesanan ketika sudah melakukan login.
+juga dapat melihat status pemesanan untuk mengecek pesanan yang sudah di kirim.
 2.4 Batasan-batasan 
 
-- pengguna bisa melakukan pemesanan ketika sudah melakukan login.
-- juga dapat melihat status pemesanan untuk mengecek pesanan yang sudah di kirim.  
+- Pengguna bisa melakukan pemesanan ketika sudah melakukan login.
+- Juga dapat melihat status pemesanan untuk mengecek pesanan yang sudah di kirim.  
 2.5 Batasan-batasan 
-
 - Transaksi pembayaran pada aplikasi  ini masih di lakukan secara manual.
-- Pemesanan hanya dilakukan dalam lingkup wilayah indramayu kota dan juga daerah lohbener.
-
-2.6 Asumsi-asumsi dan ketergantungan/keterkaistan 
+- Pemesanan hanya dilakukan dalam lingkup wilayah indramayu kota.
+2.6 Asumsi-asumsi dan ketergantungan/keterkaitan 
 - pengguna hanya bisa login ketika sudah melakukan register.
