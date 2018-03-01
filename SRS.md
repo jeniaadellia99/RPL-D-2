@@ -102,8 +102,12 @@ juga dapat melihat status pemesanan untuk mengecek pesanan yang sudah di kirim.
 
 - Pengguna bisa melakukan pemesanan ketika sudah melakukan login.
 - Juga dapat melihat status pemesanan untuk mengecek pesanan yang sudah di kirim.  
+
 2.5 Batasan-batasan 
+
 - Transaksi pembayaran pada aplikasi  ini masih di lakukan secara manual.
 - Pemesanan hanya dilakukan dalam lingkup wilayah indramayu kota.
+
 2.6 Asumsi-asumsi dan ketergantungan/keterkaitan 
+
 - pengguna hanya bisa login ketika sudah melakukan register.
