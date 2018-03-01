@@ -73,6 +73,7 @@ dengan adanya Aplikasi ini mudah dipakai untuk pemesanan barang dalam jumlah yan
 Aplikasi ini hanya bisa di gunakan pada hadphone yang memiliki OS Android.
 
 2.1.5 Operasi-operasi 
+
 |Peran|Penjelasan Operasi|
 |--|--|
 |Admin|menampilkan pilihan menu berupa Login, CRUD jumlah stock kartu perdana, dan melihat pesanan customer|
@@ -83,10 +84,15 @@ Aplikasi ini hanya bisa di gunakan pada hadphone yang memiliki OS Android.
 
 2.2 Fungsi-fungsi Produk 
 - Flowchart Admin
+
 ![Gambar](/img/Flowcart Admin.jpg)
+
 - Flowchart Agen Konter
+
 ![Gambar](/img/Flowcart Konter.jpg)
+
 - Flowchart Sales
+
 ![Gambar](/img/Flowcart Sales.jpg)
 
 2.3 Karakteristik Pengguna
